@@ -11,7 +11,6 @@ A high-performance particle animation system built using **GSAP (GreenSock Anima
 ### 🔗 Explore the Project
 - **[⚡ Live Demo](https://universal-coding-experiments.github.io/gsap-canvas-particles/)**
 - **[🎨 Interactive CodePen](https://demos.gsap.com/demo/canvas-particles/)**
-- **[📽️ Video Tutorial](https://www.youtube.com/@SanjayaSuraweera)**
 
 ---
 
